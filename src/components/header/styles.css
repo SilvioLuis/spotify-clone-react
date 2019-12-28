@@ -5,6 +5,8 @@ header {
     align-items: center;
     align-content: center;
     background: #121212;
+    position: relative;
+    z-index: 10;
 }
 
 .first-controls {
