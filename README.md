@@ -3,11 +3,6 @@ Projeto criado para o workshop ministrado por mim no dia 28/12/2019, na faculdad
 
 Sinta-se á vontade para fazer pull-requests com sugestões com correções do projeto :)
 
-### UTILITÁRIOS: 
-- [x] Material Design Icons https://material.io/resources/icons/?style=baseline
-- [x] Spotify Color Palette https://www.color-hex.com/color-palette/53188
-- [x] Json Viewer Chrome Extension chrome-extension://gbmdgpbipfallnflgajpaliibnhdgobh/pages/options.html
-
 ### LIBS, PACKAGES, NODE MODULES, EXTENSIONS E CDNs UTILIZADAS
 - [x] Instalar Rockestseat React Snippets no VS Code
 - [x] Styled Components: https://github.com/styled-components/styled-components
@@ -17,6 +12,11 @@ Sinta-se á vontade para fazer pull-requests com sugestões com correções do p
 - [x] Custom Scrollbars https://github.com/malte-wessel/react-custom-scrollbars/
 - [x] JSON SERVER https://github.com/typicode/json-server
 - [x] AXIOS https://github.com/axios/axios
+
+### UTILITÁRIOS: 
+- [x] Material Design Icons https://material.io/resources/icons/?style=baseline
+- [x] Spotify Color Palette https://www.color-hex.com/color-palette/53188
+- [x] Json Viewer Chrome Extension chrome-extension://gbmdgpbipfallnflgajpaliibnhdgobh/pages/options.html
 
 ### CONTATO
 - Site: https://www.skrow.cc
