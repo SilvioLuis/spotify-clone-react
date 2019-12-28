@@ -1,0 +1,36 @@
+.cover-sponsored {
+    height: 200px;
+    width: 200px;
+    z-index: 10;
+}
+
+.sponsored-content {
+    z-index: 10;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.sponsored-content p {
+    max-width: 500px;
+}
+
+.sponsored-content h4 {
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.sponsored-content small, p {
+    color: rgba(255,255,255,0.5);
+    font-size: 13px;
+}
+
+.sponsored-content p {
+    margin-top: 5px;
+}
+
+.btn-sponsored {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-right: 10px;
+}

@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    height: 50px;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    background: #121212;
+}
+
+.first-controls {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.first-controls input {
+    display: inline-block;
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+.first-controls i {
+    color: rgba(255,255,255,0.6);
+    font-size: 30px;
+}
+
+.first-controls i:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+.last-controls {
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding-right: 15px;
+}

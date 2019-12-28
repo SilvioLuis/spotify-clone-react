@@ -1,0 +1,50 @@
+#friendList {
+    padding-left: 0;
+    overflow-x: hidden;
+}
+
+#friendList li {
+    padding: 15px;
+}
+
+#friendList li .col-3 {
+    padding-right: 0;
+}
+
+#friendList li b {
+    font-size: 13px;
+    color: #fff !important;
+    display: inline-block;
+    float: left;
+}
+
+#friendList li small {
+    color: rgba(255,255,255,0.4) !important;
+    float: right;
+    display: inline-block;
+}
+
+#friendList li a {
+    color: rgba(255,255,255,0.4) !important;
+    display: block;
+    font-size: 10px;
+    align-items: center;
+    display: flex;
+    margin-top: 3px;
+}
+
+#friendList li a:hover {
+    color: #fff !important;
+    text-decoration: underline;
+
+}
+
+#friendList li a i {
+    font-size: 13px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+button {
+    border-radius: 40px !important;
+}

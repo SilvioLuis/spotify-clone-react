@@ -1,0 +1,99 @@
+.album-thumb {
+    height: 70px;
+}
+
+.music-infos {
+    display: flex;
+    flex-direction: row;
+}
+
+.music-infos img {
+    margin-right: 15px;
+}
+
+.music-infos span {
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.music-infos small {
+    color: rgba(255,255,255,0.6);
+    display: block;
+    font-size: 12px;
+}
+
+.music-infos span:hover, .music-infos small:hover {
+    color: #fff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.progress {
+    height: 5px;
+    border-radius: 10px;
+    background: rgba(255,255,255,0.1);
+}
+
+.progress-bar {
+    border-radius: 10px;
+    background: rgba(255,255,255,0.5);
+}
+
+.progress:hover .progress-bar  {
+    background-color: #1db954;
+    cursor: pointer;
+}
+
+.progress:hover #playerBullet {
+    display: block;
+}
+
+#playerBullet {
+    padding: 10px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 10px;
+    display: none;
+}
+
+.controls-container {
+    text-align: center;
+}
+
+.controls-container i {
+    color: rgba(255,255,255,0.6);
+    margin-bottom: 15px;
+    font-size: 25px;
+    margin-right: 35px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+.controls-container i:nth-child(3) {
+    font-size: 40px;
+    color: #fff;
+}
+
+.controls-container i:hover {
+    color: #fff;
+}
+
+.controls-container i:last-child {
+    margin-right: 0;
+}
+
+.right-controls {
+    text-align: right;
+}
+
+.right-controls i {
+    color: rgba(255,255,255,0.6);
+    margin-left: 15px;
+}
+
+.right-controls i:hover {
+    cursor: pointer;
+    color: #fff;
+}
